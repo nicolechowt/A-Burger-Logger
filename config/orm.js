@@ -27,7 +27,6 @@ var orm = {
 	updateOne: function(idOfBurger,callback) {
 		var query = "UPDATE burgers SET devoured = ? WHERE id = ?";
 		connection.query(query, [1,idOfBurger], function(error,result){
-			console.log("idOfBurger from updateONe inside ORM" + idOfBurger);
 			if (error) {
 				throw error;
 			}
