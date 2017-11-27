@@ -2,7 +2,7 @@
 
 ## Description
 Eat-Da-Burger! is an app that allows users to input the names of burgers they'd like to eat.
-[Application link](https://nicoles-burger-logger.herokuapp.com/)
+[Live link](https://nicoles-burger-logger.herokuapp.com/)
 
 
 ![Homescreen](https://github.com/nicolechowt/Burger/blob/master/screenshots/home.jpg)
