@@ -1,4 +1,4 @@
-# HW - {Eat-Da Burger - Node, Express, Handlebars}
+# HW - {A Burger Logger, using Node, Express, Handlebars}
 
 ## Description
 Eat-Da-Burger! is an app that allows users to input the names of burgers they'd like to eat.
